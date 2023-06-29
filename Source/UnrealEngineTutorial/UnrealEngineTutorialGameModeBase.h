@@ -15,3 +15,4 @@ class UNREALENGINETUTORIAL_API AUnrealEngineTutorialGameModeBase : public AGameM
 	GENERATED_BODY()
 	
 };
+ 
